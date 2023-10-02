@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\ürun fiyat hesaplama\ürun fiyat hesaplama\obj\Debug\ürun fiyat hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\ürun fiyat hesaplama\ürun fiyat hesaplama\obj\Debug\ürun fiyat hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\ürun fiyat hesaplama\ürun fiyat hesaplama\obj\Debug\ürun_fiyat_hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\ürun fiyat hesaplama\ürun fiyat hesaplama\obj\Debug\ürun_fiyat_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\ürun fiyat hesaplama\ürun fiyat hesaplama\obj\Debug\ürun fiyat hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\ürun fiyat hesaplama\ürun fiyat hesaplama\obj\Debug\ürun fiyat hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\ürun fiyat hesaplama\ürun fiyat hesaplama\bin\Debug\ürun fiyat hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\ürun fiyat hesaplama\ürun fiyat hesaplama\bin\Debug\ürun fiyat hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\ürun fiyat hesaplama\ürun fiyat hesaplama\bin\Debug\ürun fiyat hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\ürun fiyat hesaplama\ürun fiyat hesaplama\obj\Debug\ürun fiyat hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\ürun fiyat hesaplama\ürun fiyat hesaplama\obj\Debug\ürun fiyat hesaplama.pdb
